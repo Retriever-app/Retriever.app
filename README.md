@@ -1,6 +1,6 @@
-# Retriever App
+# RetrieverX
 
-Retrieverは、Webサイトから特定のルールに基づいてデータを抽出し、効率的に閲覧・管理するためのiOSアプリケーションです。
+RetrieverXは、Webサイトから特定のルールに基づいてデータを抽出し、効率的に閲覧・管理するためのiOSアプリケーションです。
 
 ## 📱 アプリの特徴
 
@@ -30,4 +30,4 @@ Retrieverは、Webサイトから特定のルールに基づいてデータを�
 
 ---
 
-© 2025 Retriever開発チーム 
+© 2025 RetrieverX開発チーム 
